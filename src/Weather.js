@@ -20,7 +20,7 @@ export default function Weather(props) {
       visible={true}
       height="80"
       width="80"
-      color="#00BFFF"
+      color="orange"
       ariaLabel="puff-loading"
       wrapperStyle={{}}
       wrapperClass=""
